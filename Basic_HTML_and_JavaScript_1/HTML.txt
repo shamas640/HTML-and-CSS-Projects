@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Activate </title>
+	</head>
+	<body>
+	<h1> javascript </h1>
+	<div style="color:blue">
+	<h2> Light rain </h2>
+	<p> notped++ </p>
+<style>
+
+	</div>
+	</body>
+</html>
