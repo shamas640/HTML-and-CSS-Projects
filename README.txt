@@ -3,4 +3,5 @@ This repository contains HTML and CSS Projects for Pitman course:
 - Basic HTML and CSS
 - Basic HTML and JS
 - One page website
+- Bootstrap assignment
 - My Student portfolio which can be viewed here: https://shamas640.github.io/
